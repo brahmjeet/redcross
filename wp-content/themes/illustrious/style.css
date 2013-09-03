@@ -733,3 +733,6 @@ Includes all queries that shape the site for mobile experiences
 .image-content img {
     height: 151px;
 }
+.page-template-tpl-pageofposts-php .entry .thumbnail {
+	height: 100px;
+}
