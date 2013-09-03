@@ -10,8 +10,8 @@
             <div id='footermenu'>
                 <?php wp_nav_menu(array('menu_class' => 'nav_footer', 'theme_location' => 'footer_menu', 'depth' => '1', 'fallback_cb' => false)); ?>
             </div>
-            <!--&copy; <?php bloginfo('name'); ?> <?php echo date("Y"); ?>. <?php _e('Theme designed by <a href="http://www.cpothemes.com">CPOThemes</a>.', 'cpotheme'); ?>
-      --> </div>
+            &copy; <?php _e('Theme designed by <a href="http://www.srijan.net">Srijan Dhauladhar</a>.', 'cpotheme'); ?>
+      </div>
     </div>
 <?php wp_footer(); ?>
 
