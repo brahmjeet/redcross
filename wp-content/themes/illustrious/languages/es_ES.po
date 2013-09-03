@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CPO Framework 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-12 12:58+0100\n"
+"PO-Revision-Date: 2012-04-12 13:02+0100\n"
+"Last-Translator: CPO\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././404.php:5
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - P&aacute;gina No Encontrada"
+
+#: .././404.php:8
+msgid "The requested page could not be found. It could have been deleted or changed location. Try searching for it using the search function."
+msgstr "La p&aacute;gina solicitada no se ha encontrado. Puede que haya sido borrada o haya cambiado de sitio. Prueba a buscarla utilizando la funci&oacute;n de b&uacute;squeda."
+
+#: .././archive.php:12
+msgid "Subscribe"
+msgstr "Suscr&iacute;bete"
+
+#: .././archive.php:16
+#: .././archive.php:20
+#: .././archive.php:24
+#: .././archive.php:28
+#: .././archive.php:32
+msgid "Archive"
+msgstr "Archivo"
+
+#: .././archive.php:29
+msgid "Author archive"
+msgstr "Archivo por autor"
+
+#: .././archive.php:33
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: .././archive.php:56
+#: .././comments.php:25
+msgid "Newer"
+msgstr "Nuevos"
+
+#: .././archive.php:57
+#: .././comments.php:24
+msgid "Older"
+msgstr "Antiguos"
+
+#: .././archive.php:62
+msgid "No posts found."
+msgstr "No se han encontrado entradas."
+
+#: .././comments.php:3
+msgid "This page is protected. Please insert the password to be able to read its contents."
+msgstr "Esta p&aacute;gina est&aacute; protegida. Por favor, introducte la contrase&ntilde;a para poder acceder al contenido."
+
+#: .././comments.php:16
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: .././comments.php:31
+msgid "Comments are closed."
+msgstr "Los comentarios est&aacute;n cerrados."
+
+#: .././footer.php:13
+msgid "Theme designed by <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+msgstr "Tema diseñado por <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+
+#: .././page.php:11
+msgid "Pages"
+msgstr "P&aacute;ginas"
+
+#: .././search.php:6
+msgid "Search Results"
+msgstr "Resultados de la b&uacute;squeda"
+
+#: .././search.php:36
+msgid "No results have been found."
+msgstr "La busqueda no ha producido resultados."
+
+#: .././sidebar-home.php:9
+#: .././sidebar.php:9
+msgid "Archives"
+msgstr "Archivos"
+
+#: .././sidebar-home.php:16
+#: .././sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#: .././template-blog.php:15
+#: .././template-contact.php:80
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: .././template-contact.php:19
+#: .././template-contact.php:27
+#: .././template-contact.php:38
+msgid "This field cannot be left empty."
+msgstr "Este campo no puede dejarse vac&iacute;o."
+
+#: .././template-contact.php:30
+msgid "The email address has an incorrect format.."
+msgstr "La direcci&oacute;n de correo tiene un formato incorrecto."
+
+#: .././template-contact.php:51
+msgid "New contact form response by"
+msgstr "Nueva respuesta en el formulario de contacto por"
+
+#: .././template-contact.php:53
+#: .././template-contact.php:93
+msgid "Name"
+msgstr "Nombre"
+
+#: .././template-contact.php:54
+#: .././template-contact.php:101
+msgid "Email"
+msgstr "Email"
+
+#: .././template-contact.php:55
+#: .././template-contact.php:109
+msgid "Message"
+msgstr "Mensaje"
+
+#: .././template-contact.php:57
+msgid "IP Address"
+msgstr "Direcci&oacute;n IP"
+
+#: .././template-contact.php:58
+msgid "Time"
+msgstr "Hora"
+
+#: .././template-contact.php:63
+msgid "Your message has been sent"
+msgstr "Tu mensaje ha sido enviado."
+
+#: .././template-contact.php:84
+msgid "The email address for the contact form is not configured."
+msgstr "La direcci&oacute;n de env&iacute; del formulario de contacto no est&aacute; configurada."
+
+#: .././template-contact.php:89
+msgid "Your message has been sent."
+msgstr "Tu mensaje se ha enviado."
+
+#: .././template-contact.php:117
+msgid "In order to complete this form, leave this field empty"
+msgstr "Para completar el formulario, deja este campo vac&iacute;o"
+
+#: .././template-contact.php:123
+msgid "Send"
+msgstr "Enviar"
+
+#: .././core/custom.php:7
+msgid "Theme Settings"
+msgstr "Opciones del Tema"
+
+#: .././core/custom.php:24
+msgid "Changes have been saved."
+msgstr "Las opciones de configuraci&oacute;n han sido guardadas."
+
+#: .././core/custom.php:29
+msgid "Changes could not be saved."
+msgstr "Las opciones de configuraci&oacute;n no han podido ser guardadas."
+
+#: .././core/custom.php:60
+msgid "Support"
+msgstr "Soporte"
+
+#: .././core/custom.php:93
+#: .././core/custom.php:99
+#: .././core/custom.php:137
+msgid "Save Settings"
+msgstr "Guardar"
+
+#: .././core/forms.php:37
+msgid "Yes"
+msgstr "S&iacute;"
+
+#: .././core/forms.php:40
+msgid "No"
+msgstr "No"
+
+#: .././core/general.php:28
+#, php-format
+msgid "Page %s"
+msgstr "P&aacute;gina %s"
+
+#: .././core/seo.php:18
+#: .././core/seo.php:19
+#: .././core/seo.php:25
+msgid "SEO Meta Tags"
+msgstr "Etiquetas Meta SEO"
+
+#: .././core/seo.php:50
+msgid "SEO Options"
+msgstr "Opciones SEO"
+
+#: .././core/seo.php:51
+msgid "Site wide SEO settings."
+msgstr "Opciones SEO que afectan a todo el sitio."
+
+#: .././core/seo.php:56
+msgid "Activate SEO"
+msgstr "Activar SEO"
+
+#: .././core/seo.php:57
+msgid "Toggles SEO options globally. If you wish to use other plugins, turn this setting off to avoid conflicts."
+msgstr "Activa las opciones SEO de forma global. Si deseas utilizar otros plugins, desactiva esta opción para evitar conflictos."
+
+#: .././core/seo.php:62
+msgid "Title Separator"
+msgstr "Separador del T&iacute;tulo"
+
+#: .././core/seo.php:63
+msgid "Determines the separator in the title tag. If empty, defaults to the standard separator ( | )."
+msgstr "Determina el separador utilizado en la etiqueta de título. Si se deja vacío, se utilizará el separador estándar ( | )."
+
+#: .././core/seo.php:69
+msgid "Default Description"
+msgstr "Descripción por Defecto"
+
+#: .././core/seo.php:70
+msgid "This field will be used by default in posts and pages lacking a custom description."
+msgstr "Este campo será utilizado por defecto en entradas y páginas sin una descripción personalizada."
+
+#: .././core/seo.php:75
+msgid "Default Keywords"
+msgstr "Palabras Clave por Defecto"
+
+#: .././core/seo.php:76
+msgid "This field will be used by default in posts and pages lacking custom keywords."
+msgstr "Este campo será utilizado por defecto en entradas y páginas sin palabras clave personalizadas."
+
+#: .././core/seo.php:81
+msgid "Homepage Title"
+msgstr "Título de la P&aacute;gina de Inicio"
+
+#: .././core/seo.php:82
+msgid "Specifies a custom title for the home page. If empty, the standard title formatting will be used."
+msgstr "Especifica un título personalizado para la página de inicio. Si se deja vacío, se utilizará el formato normal para el título."
+
+#: .././core/seo.php:87
+msgid "Homepage Description"
+msgstr "Descripción de la Página de Inicio"
+
+#: .././core/seo.php:88
+msgid "This field will be shown in the description meta tag in the homepage."
+msgstr "Este campo será mostrado en la etiqueta meta de descripción de la página de Inicio."
+
+#: .././core/seo.php:93
+msgid "Homepage Keywords"
+msgstr "Palabras Clave de la página de Inicio."
+
+#: .././core/seo.php:94
+msgid "Specify the keywords that best define your site, comma-separated. This field will be shown in the keywords meta tag in the homepage."
+msgstr "Especifica las palabras clave que mejor definen a tu sitio, separadas por comas.Este campo será mostrado en la etiqueta meta de palabras clave en la página de Inicio."
+
+#: .././core/seo.php:108
+msgid "Custom Title"
+msgstr "Título Personalizado"
+
+#: .././core/seo.php:110
+msgid "Creates a custom title for this post/page. If empty, standard title formatting will be used instead."
+msgstr "Crea un t´tiulo personalizado para esta entrada/página. Si se deja vacío, se utilizará el formato estándar."
+
+#: .././core/seo.php:115
+msgid "Custom Description"
+msgstr "Descripción Personalizada"
+
+#: .././core/seo.php:117
+msgid "Creates a custom description tag for this post/page."
+msgstr "Crea una etiqueta de descripción para esta entrada/página."
+
+#: .././core/seo.php:122
+msgid "Custom Keywords"
+msgstr "Palabras Clave Personalizadas"
+
+#: .././core/seo.php:124
+msgid "Creates a custom keywords tag for this post/page. Keywords must be comma-separated."
+msgstr "Crea una etiqueta de palabras clave específica para esta entrada/página. Las palabras clave deben ir separadas por comas."
+
+#: .././core/settings.php:19
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: .././core/widgets/widget_tweets - Copy.php:9
+msgid "CPO: Twitter Stream"
+msgstr "CPO: Stream de Twitter"
+
+#: .././core/widgets/widget_tweets - Copy.php:45
+msgid "Title"
+msgstr "T&iacute;tulo"
+
+#: .././core/widgets/widget_tweets - Copy.php:49
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: .././core/widgets/widget_tweets - Copy.php:53
+msgid "Number of Tweets"
+msgstr "N&uacute;mero de Tweets"
+
+#: .././includes/setup.php:14
+msgid "Homepage"
+msgstr "P&aacute;gina de Inicio"
+
+#: .././includes/setup.php:16
+msgid "Sidebar shown only in the homepage."
+msgstr "Barra lateral mostrada en la p&aacute;gina de inicio."
+
+#: .././includes/setup.php:22
+msgid "Primary Widgets"
+msgstr "Widgets Primarios"
+
+#: .././includes/setup.php:24
+msgid "Default sidebar shown in all standard pages."
+msgstr "Barra lateral mostrada por defecto en todas las p&aacute;ginas normales."
+
+#: .././includes/setup.php:30
+msgid "Blog"
+msgstr "Blog"
+
+#: .././includes/setup.php:32
+msgid "Sidebar shown in the blog page template."
+msgstr "Barra lateral mostrada en la plantilla de blog."
+
+#: .././includes/setup.php:38
+msgid "Footer Sidebar 1"
+msgstr "Barra Inferior 1"
+
+#: .././includes/setup.php:40
+#: .././includes/setup.php:48
+#: .././includes/setup.php:56
+msgid "Shown in the footer area."
+msgstr "Mostrada en el &aacute;rea del pi&eacute; de p&aacute;gina."
+
+#: .././includes/setup.php:46
+msgid "Footer Sidebar 2"
+msgstr "Barra Inferior 2"
+
+#: .././includes/setup.php:54
+msgid "Footer Sidebar 3"
+msgstr "Barra Inferior 3"
+
+#: .././includes/setup.php:67
+msgid "Main Menu"
+msgstr "Men&uacute; Principal"
+
+#: .././includes/setup.php:68
+msgid "Footer Menu"
+msgstr "Men&uacute; Inferior"
+
+#: .././includes/cposts/cpost_features.php:8
+msgid "Features"
+msgstr "Caracter&iacute;sticas"
+
+#: .././includes/cposts/cpost_features.php:9
+msgid "Feature"
+msgstr "Caracter&iacute;stica"
+
+#: .././includes/cposts/cpost_features.php:10
+msgid "Add Feature"
+msgstr "Agregar Caracter&iacute;stica"
+
+#: .././includes/cposts/cpost_features.php:11
+msgid "Add New Feature"
+msgstr "A&ntilde;adir Nueva Caracter&iacute;stica"
+
+#: .././includes/cposts/cpost_features.php:12
+msgid "Edit Feature"
+msgstr "Editar Caracter&iacute;stica"
+
+#: .././includes/cposts/cpost_features.php:13
+msgid "New Feature"
+msgstr "Nueva Caracter&iacute;stica"
+
+#: .././includes/cposts/cpost_features.php:14
+msgid "View Features"
+msgstr "Ver Caracter&iacute;sticas"
+
+#: .././includes/cposts/cpost_features.php:15
+msgid "Search Features"
+msgstr "Buscar Caracter&iacute;sticas"
+
+#: .././includes/cposts/cpost_features.php:16
+msgid "No features found."
+msgstr "No se han encontrado caracter&iacute;sticas."
+
+#: .././includes/cposts/cpost_features.php:17
+msgid "No features found in the trash."
+msgstr "No se han encontrado caracter&iacute;sticas en la papelera."
+
+#: .././includes/cposts/cpost_slider.php:9
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: .././includes/cposts/cpost_slider.php:10
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: .././includes/cposts/cpost_slider.php:11
+#: .././includes/cposts/cpost_slider.php:14
+msgid "New Slide"
+msgstr "Nueva Diapositiva"
+
+#: .././includes/cposts/cpost_slider.php:12
+msgid "Add New Slide"
+msgstr "A&ntilde;adir Nueva Diapositiva"
+
+#: .././includes/cposts/cpost_slider.php:13
+msgid "Edit Slide"
+msgstr "Editar Diapositiva"
+
+#: .././includes/cposts/cpost_slider.php:15
+msgid "View Slide"
+msgstr "Ver Diapositiva"
+
+#: .././includes/cposts/cpost_slider.php:16
+msgid "Search Slides"
+msgstr "Buscar Diapositivas"
+
+#: .././includes/cposts/cpost_slider.php:17
+msgid "No slides were found."
+msgstr "No se han encontrado diapositivas."
+
+#: .././includes/cposts/cpost_slider.php:18
+msgid "No slides were found in the trash."
+msgstr "No se han encontrado diapositivas en la papelera."
+
+#: .././includes/layout/layout_comments.php:14
+msgid "Your comment is awaiting approval."
+msgstr "Tu comentario est&aacute; en proceso de aprobaci&oacute;n."
+
+#: .././includes/layout/layout_comments.php:20
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: .././includes/layout/layout_comments.php:27
+#: .././includes/layout/layout_comments.php:38
+msgid "Edit"
+msgstr "Editar"
+
+#: .././includes/layout/layout_comments.php:38
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: .././includes/layout/layout_post.php:4
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Escrito en %1$s "
+
+#: .././includes/layout/layout_post.php:7
+#, php-format
+msgid " by %1$s"
+msgstr " por %1$s"
+
+#: .././includes/layout/layout_post.php:10
+#, php-format
+msgid " in %1$s"
+msgstr " en %1$s"
+
+#: .././includes/layout/layout_post.php:17
+#, php-format
+msgid "Tagged as %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: .././includes/layout/layout_post.php:32
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas escritas por %s"
+
+#: .././includes/layout/layout_post.php:103
+msgid "First Page"
+msgstr "Primera P&aacute;gina"
+
+#: .././includes/layout/layout_post.php:123
+msgid "Last Page"
+msgstr "&Uacute;ltima P&aacute;gina"
+
+#: .././includes/metadata/data_settings.php:11
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: .././includes/metadata/data_settings.php:12
+msgid "Global configuration options applied to the entire site."
+msgstr "Opciones generales aplicables a todo el sitio web."
+
+#: .././includes/metadata/data_settings.php:17
+msgid "Custom Logo"
+msgstr "Logo Personalizado"
+
+#: .././includes/metadata/data_settings.php:18
+msgid "Insert a custom image to be used as logo."
+msgstr "Inserta una imagen personalizada para utilizarla como logo."
+
+#: .././includes/metadata/data_settings.php:23
+msgid "Enable Text Title?"
+msgstr "¿Activar T&iacute;tulo en Texto?"
+
+#: .././includes/metadata/data_settings.php:24
+msgid "Activate this to display the site title as text."
+msgstr "Activa esta opci&oacute;n para mostrar el t&iacute;tulo del sitio como texto."
+
+#: .././includes/metadata/data_settings.php:29
+msgid "Analytics Tracking Code"
+msgstr "C&oacute;digo de rastreo anal&iacute;tico."
+
+#: .././includes/metadata/data_settings.php:30
+msgid "Insert here your analytics tool's tracking code."
+msgstr "Inserta aqu&iacute; el c&oacute;digo de rastreo de tu herramienta de anal&iacute;tica web."
+
+#: .././includes/metadata/data_settings.php:35
+msgid "Enable Credit Link In Footer?"
+msgstr "¿Activar Enlace de Autor en el Pié?"
+
+#: .././includes/metadata/data_settings.php:36
+msgid "Enables a small, non-obtrusive credit link in the footer. If you decide to activate it, thanks a lot for supporting CPOThemes!"
+msgstr "Activa un pequeño e inobtrusivo enlace en el pié, dando crédito al creador de este tema. ¡Si decides activarlo, muchas gracias por apoyar a CPOThemes!"
+
+#: .././includes/metadata/data_settings.php:43
+msgid "Styling"
+msgstr "Estilizado"
+
+#: .././includes/metadata/data_settings.php:44
+msgid "Set up the look & feel of the site."
+msgstr "Configura la apariencia del sitio."
+
+#: .././includes/metadata/data_settings.php:49
+msgid "Number of Posts in Homepage"
+msgstr "N&uacute;mero de Entradas Recientes"
+
+#: .././includes/metadata/data_settings.php:50
+msgid "Specify the number of recent posts you want to appear in the homepage."
+msgstr "Specify the number of recent posts you want to appear in the homepage."
+
+#: .././includes/metadata/data_settings.php:56
+msgid "Background Color"
+msgstr "Color de Fondo"
+
+#: .././includes/metadata/data_settings.php:57
+msgid "Determines the color of the background."
+msgstr "Determines the color of the background."
+
+#: .././includes/metadata/data_settings.php:62
+msgid "Always Display Slider?"
+msgstr "¿Mostrar Diapositivas Siempre?"
+
+#: .././includes/metadata/data_settings.php:63
+msgid "Determines whether the slider will be shown in all posts and pages, or just the homepage."
+msgstr "Determina si el pase de diapositivas se mostrará en todas las páginas, o únicamente la página de Inicio."
+
+#: .././includes/metadata/data_settings.php:69
+msgid "Contact Information"
+msgstr "Informaci&oacute;n de Contacto"
+
+#: .././includes/metadata/data_settings.php:70
+msgid "Setup for contact information used in forms."
+msgstr "Configuraci&oacute;n de las opciones de contacto utilizada en formularios."
+
+#: .././includes/metadata/data_settings.php:75
+msgid "Contact Form Email"
+msgstr "Email del Formulario de Contacto"
+
+#: .././includes/metadata/data_settings.php:76
+msgid "Entries in the contact form template will be sent to this email address."
+msgstr "Las respuestas enviadas a través de la plantilla del formulario de contacto serán enviadas a esta dirección."
+
+#~ msgid "Global Options"
+#~ msgstr "Opciones Globales"
+
+#~ msgid "Activate SEO in Posts &amp; Pages"
+#~ msgstr "Activar SEO en Entradas & P&aacute;ginas"
+
+#~ msgid ""
+#~ "Toggles SEO settings in individual posts and pages, allowing you to "
+#~ "create specific descriptions &amp; keywords in each one of them."
+#~ msgstr ""
+#~ "Activa las opciones SEO en entradas y páginas individuales, pudiendo "
+#~ "crear descripciones y palabras clave espec&iacute;ficas en cada una."
+
+#~ msgid "SEO settings that affect the homepage."
+#~ msgstr "Opciones SEO que afectan a la página de Inicio"
+
+#~ msgid "Settings"
+#~ msgstr "Opciones"
+
+#~ msgid "A new version of CPO Core is available. Go to the update page."
+#~ msgstr ""
+#~ "Hay una nueva versión del CPO Core disponible. Por favor, ve a la página "
+#~ "de actualización."
+
+#~ msgid "Your message has been sent to"
+#~ msgstr "Tu mensaje se ha enviado a"

@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panoramica V.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-05-03 09:45+0100\n"
+"Last-Translator: CPO\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ cpotheme
+#: 404.php:5
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - Seite nicht gefunden"
+
+#@ cpotheme
+#: 404.php:8
+msgid "The requested page could not be found. It could have been deleted or changed location. Try searching for it using the search function."
+msgstr "Die angefragte Seite konnte nicht gefunden werden, da sie eventuell gelöscht oder die Adresse gewechselt wurde. Suchen Sie danach mithilfe der Suchfunktion."
+
+#@ cpotheme
+#: archive.php:12
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#@ cpotheme
+#: archive.php:16
+#: archive.php:20
+#: archive.php:24
+#: archive.php:28
+#: archive.php:32
+msgid "Archive"
+msgstr "Archiv"
+
+#@ cpotheme
+#: archive.php:29
+msgid "Author archive"
+msgstr "Autorenarchiv"
+
+#@ cpotheme
+#: archive.php:33
+msgid "Tag"
+msgstr "Schlagwort"
+
+#@ cpotheme
+#: archive.php:45
+#: index.php:29
+#: template-blog.php:28
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permanentlink zu %s"
+
+#@ cpotheme
+#: archive.php:56
+#: comments.php:25
+msgid "Newer"
+msgstr "Neuer"
+
+#@ cpotheme
+#: archive.php:57
+#: comments.php:24
+msgid "Older"
+msgstr "Älter"
+
+#@ cpotheme
+#: archive.php:62
+msgid "No posts found."
+msgstr "Keine Artikel gefunden."
+
+#@ cpotheme
+#: comments.php:3
+msgid "This page is protected. Please insert the password to be able to read its contents."
+msgstr "Die Seite ist geschützt. Bitte geben Sie das Passwort ein, um den Inhalt sehen zu können."
+
+#@ cpotheme
+#: comments.php:9
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Ein Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#@ cpotheme
+#: comments.php:16
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#@ cpotheme
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#@ cpotheme
+#: core/custom.php:7
+msgid "Theme Settings"
+msgstr "Theme-Einstellungen"
+
+#@ cpotheme
+#: core/custom.php:24
+msgid "Changes have been saved."
+msgstr "Änderungen wurden gespeichert."
+
+#@ cpotheme
+#: core/custom.php:29
+msgid "Changes could not be saved."
+msgstr "Änderungen konnten nicht gespeichert werden."
+
+#@ cpotheme
+#: core/custom.php:60
+msgid "Support"
+msgstr "Support"
+
+#@ cpotheme
+#: core/custom.php:93
+#: core/custom.php:99
+#: core/custom.php:137
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#@ cpotheme
+#: core/forms.php:37
+msgid "Yes"
+msgstr "Ja"
+
+#@ cpotheme
+#: core/forms.php:40
+msgid "No"
+msgstr "Nein"
+
+#@ cpotheme
+#: core/general.php:28
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#@ cpotheme
+#: core/seo.php:18
+#: core/seo.php:19
+#: core/seo.php:25
+msgid "SEO Meta Tags"
+msgstr "SEO Meta Tags"
+
+#@ cpotheme
+#: core/seo.php:50
+msgid "SEO Options"
+msgstr "SEO-Optionen"
+
+#@ cpotheme
+#: core/seo.php:51
+msgid "Site wide SEO settings."
+msgstr "Seitenweite SEO-Einstellungen"
+
+#@ cpotheme
+#: core/seo.php:56
+msgid "Activate SEO"
+msgstr "Aktiviere SEO"
+
+#@ cpotheme
+#: core/seo.php:57
+msgid "Toggles SEO options globally. If you wish to use other plugins, turn this setting off to avoid conflicts."
+msgstr "Stellt global die SEO-Optionen um. Wenn Sie andere Plugins dafür benutzen wollen, schalten Sie diese Funktion ab, um Konflikte zu vermeiden."
+
+#@ cpotheme
+#: core/seo.php:62
+msgid "Title Separator"
+msgstr "Titel-Seperator"
+
+#@ cpotheme
+#: core/seo.php:63
+msgid "Determines the separator in the title tag. If empty, defaults to the standard separator ( | )."
+msgstr "Ändert den Seperator im Title-Tag. Wenn das Feld leer ist, wird der Standard-Seperator ( | ) benutzt."
+
+#@ cpotheme
+#: core/seo.php:69
+msgid "Default Description"
+msgstr "Standardbeschreibung"
+
+#@ cpotheme
+#: core/seo.php:70
+msgid "This field will be used by default in posts and pages lacking a custom description."
+msgstr "Dieses Feld wird standardmäßig bei Artikeln und Seiten benutzt, wo die benutzerdefinierte Beschreibung fehlt."
+
+#@ cpotheme
+#: core/seo.php:75
+msgid "Default Keywords"
+msgstr "Standard Keywords"
+
+#@ cpotheme
+#: core/seo.php:76
+msgid "This field will be used by default in posts and pages lacking custom keywords."
+msgstr "Dieses Feld wird standardmäßig bei Artikeln und Seiten benutzt, wo benutzerdefinierte Keywords fehlen."
+
+#@ cpotheme
+#: core/seo.php:81
+msgid "Homepage Title"
+msgstr "Startseiten-Titel"
+
+#@ cpotheme
+#: core/seo.php:82
+msgid "Specifies a custom title for the home page. If empty, the standard title formatting will be used."
+msgstr "Stellt einen benutzerdefinierten Titel für die Startseite ein. Falls das Feld leer ist, wird die Standardformatierung benutzt."
+
+#@ cpotheme
+#: core/seo.php:87
+msgid "Homepage Description"
+msgstr "Startseitenbeschreibung"
+
+#@ cpotheme
+#: core/seo.php:88
+msgid "This field will be shown in the description meta tag in the homepage."
+msgstr "Dieses Feld wird im Description Meta Tag der Startseite angezeigt."
+
+#@ cpotheme
+#: core/seo.php:93
+msgid "Homepage Keywords"
+msgstr "Startseiten-Keywords"
+
+#@ cpotheme
+#: core/seo.php:94
+msgid "Specify the keywords that best define your site, comma-separated. This field will be shown in the keywords meta tag in the homepage."
+msgstr "Definieren Sie die Keywords die Ihre Seite am besten beschreiben, getrennt durch Kommas. Dieses Feld wird im Keywords Meta Tag der Startseite angezeigt."
+
+#@ cpotheme
+#: core/seo.php:108
+msgid "Custom Title"
+msgstr "Benutzerdefinierter Titel"
+
+#@ cpotheme
+#: core/seo.php:110
+msgid "Creates a custom title for this post/page. If empty, standard title formatting will be used instead."
+msgstr "Wenn sie dieses Feld ausfüllen, wird einen benutzerdefinierten Titel für diesen Artikel / diese Seite anstelle der Standardformatierung erstellt."
+
+#@ cpotheme
+#: core/seo.php:115
+msgid "Custom Description"
+msgstr "Benutzerdefinierte Beschreibung"
+
+#@ cpotheme
+#: core/seo.php:117
+msgid "Creates a custom description tag for this post/page."
+msgstr "Erstellt einen benutzerdefinierten Description Tag für diesen Artikel / diese Seite."
+
+#@ cpotheme
+#: core/seo.php:122
+msgid "Custom Keywords"
+msgstr "Benutzerdefinierte Keywords"
+
+#@ cpotheme
+#: core/seo.php:124
+msgid "Creates a custom keywords tag for this post/page. Keywords must be comma-separated."
+msgstr "Erstellt einen benutzerdefinierten Keywords Tag für diesen Artikel / diese Seite. Keywords müssen mit Kommas getrennt sein."
+
+#@ cpotheme
+#: core/settings.php:19
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#@ cpotheme
+#: core/widgets/widget_tweets - Copy.php:9
+#: core/widgets/widget_tweets.php:9
+#: includes/widgets/widget_tweets - Copy.php:9
+#: includes/widgets/widget_tweets.php:9
+msgid "CPO: Twitter Stream"
+msgstr "CPO: Twitter-Stream"
+
+#@ cpotheme
+#: core/widgets/widget_tweets - Copy.php:45
+#: core/widgets/widget_tweets.php:42
+#: includes/widgets/widget_tweets - Copy.php:45
+#: includes/widgets/widget_tweets.php:42
+msgid "Title"
+msgstr "Titel"
+
+#@ cpotheme
+#: core/widgets/widget_tweets - Copy.php:49
+#: core/widgets/widget_tweets.php:46
+#: includes/widgets/widget_tweets - Copy.php:49
+#: includes/widgets/widget_tweets.php:46
+msgid "Username"
+msgstr "Benutzername"
+
+#@ cpotheme
+#: core/widgets/widget_tweets - Copy.php:53
+#: core/widgets/widget_tweets.php:50
+#: includes/widgets/widget_tweets - Copy.php:53
+#: includes/widgets/widget_tweets.php:50
+msgid "Number of Tweets"
+msgstr "Anzahl von Tweets"
+
+#@ cpotheme
+#: footer.php:13
+msgid "Theme designed by <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+msgstr "Theme designed von <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:8
+msgid "Features"
+msgstr "Merkmale"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:9
+msgid "Feature"
+msgstr "Merkmal"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:10
+msgid "Add Feature"
+msgstr "Merkmal hinzufügen"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:11
+msgid "Add New Feature"
+msgstr "Neues Merkmal hinzufügen"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:12
+msgid "Edit Feature"
+msgstr "Merkmal bearbeiten"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:13
+msgid "New Feature"
+msgstr "Neues Merkmal"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:14
+msgid "View Features"
+msgstr "Zeige Merkmale"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:15
+msgid "Search Features"
+msgstr "Durchsuche Merkmale"
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:16
+msgid "No features found."
+msgstr "Keine Merkmale gefunden."
+
+#@ cpotheme
+#: includes/cposts/cpost_features.php:17
+msgid "No features found in the trash."
+msgstr "Keine Merkmale im Papierkorb gefunden."
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:9
+msgid "Slides"
+msgstr "Slides"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:10
+msgid "Slide"
+msgstr "Slide"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:11
+#: includes/cposts/cpost_slider.php:14
+msgid "New Slide"
+msgstr "Neuer Slide"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:12
+msgid "Add New Slide"
+msgstr "Neuen Slide hinzufügen"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:13
+msgid "Edit Slide"
+msgstr "Slide bearbeiten"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:15
+msgid "View Slide"
+msgstr "Zeige Slide"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:16
+msgid "Search Slides"
+msgstr "Durchsuche Slides"
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:17
+msgid "No slides were found."
+msgstr "Keine Slides gefunden."
+
+#@ cpotheme
+#: includes/cposts/cpost_slider.php:18
+msgid "No slides were found in the trash."
+msgstr "Keine Slides im Papierkorb gefunden."
+
+#@ cpotheme
+#: includes/layout/layout_comments.php:14
+msgid "Your comment is awaiting approval."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+#@ cpotheme
+#: includes/layout/layout_comments.php:20
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s auf %2$s"
+
+#@ cpotheme
+#: includes/layout/layout_comments.php:27
+#: includes/layout/layout_comments.php:38
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#@ cpotheme
+#: includes/layout/layout_comments.php:38
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:4
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Veröffentlicht am %1$s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:5
+#: includes/layout/layout_post.php:32
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Artikel von %s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:7
+#, php-format
+msgid " by %1$s"
+msgstr " von %1$s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:10
+#, php-format
+msgid " in %1$s"
+msgstr " in %1$s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:17
+#, php-format
+msgid "Tagged as %1$s"
+msgstr "Getaggt mit %1$s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:28
+#, php-format
+msgid "Posted by %s"
+msgstr "Veröffentlicht von %s"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:103
+msgid "First Page"
+msgstr "Erste Seite"
+
+#@ cpotheme
+#: includes/layout/layout_post.php:123
+msgid "Last Page"
+msgstr "Letzte Seite"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:11
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:12
+msgid "Global configuration options applied to the entire site."
+msgstr "Globale Konfigurationen gelten für die ganze Seite."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:17
+msgid "Custom Logo"
+msgstr "Benutzerdefiniertes Logo"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:18
+msgid "Insert a custom image to be used as logo."
+msgstr "Fügt ein benutzerdefiniertes Bild als Logo ein."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:23
+msgid "Enable Text Title?"
+msgstr "Aktiviere Texttitel?"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:24
+msgid "Activate this to display the site title as text."
+msgstr "Aktivieren Sie diese Funktion, um den Seitentitel als Text anzeigen zu lassen."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:29
+msgid "Analytics Tracking Code"
+msgstr "Analytics Tracking Code"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:30
+msgid "Insert here your analytics tool's tracking code."
+msgstr "Fügen Sie hier den Code Ihres Statistikprogramms ein."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:35
+msgid "Enable Credit Link In Footer?"
+msgstr "Credit Link in der Fußzeile aktivieren?"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:36
+msgid "Enables a small, non-obtrusive credit link in the footer. If you decide to activate it, thanks a lot for supporting CPOThemes!"
+msgstr "Aktiviert einen kleinen, unauffälligen Credit Link zur Fußzeile hinzu. Falls Sie sich entscheiden, Ihn anzeigen zu lassen, danken wir dafür, dass Sie CPOThemes unterstützen!"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:43
+msgid "Styling"
+msgstr "Styling"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:44
+msgid "Set up the look & feel of the site."
+msgstr "Stellen Sie das Aussehen der Seite ein."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:49
+msgid "Number of Posts in Homepage"
+msgstr "Anzahl der Artikel auf der Startseite."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:50
+msgid "Specify the number of recent posts you want to appear in the homepage."
+msgstr "Stellen Sie die Anzahl der aktuellen Artikel ein, die auf der Startseite erscheinen."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:56
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:57
+msgid "Determines the color of the background."
+msgstr "Stellt die Farbe des Hintergrundes ein."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:62
+msgid "Always Display Slider?"
+msgstr "Den Slider immer anzeigen?"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:63
+msgid "Determines whether the slider will be shown in all posts and pages, or just the homepage."
+msgstr "Soll der Slider auf allen Seiten und Artikeln oder nur auf der Startseite angezeigt werden?"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:69
+msgid "Contact Information"
+msgstr "Kontaktinformationen"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:70
+msgid "Setup for contact information used in forms."
+msgstr "Einrichtung der Kontaktinformationen, die in Formularen benutzt werden."
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:75
+msgid "Contact Form Email"
+msgstr "Kontaktformular-E-Mail"
+
+#@ cpotheme
+#: includes/metadata/data_settings.php:76
+msgid "Entries in the contact form template will be sent to this email address."
+msgstr "Einsendungen über das Kontaktformular-Template werden an diese E-Mail-Adresse gesendet."
+
+#@ cpotheme
+#: includes/setup.php:14
+msgid "Homepage"
+msgstr "Startseite"
+
+#@ cpotheme
+#: includes/setup.php:16
+msgid "Sidebar shown only in the homepage."
+msgstr "Sidebar, die nur auf der Startseite angezeigt wird."
+
+#@ cpotheme
+#: includes/setup.php:22
+msgid "Primary Widgets"
+msgstr "Primäre Widgets"
+
+#@ cpotheme
+#: includes/setup.php:24
+msgid "Default sidebar shown in all standard pages."
+msgstr "Standard-Sidebar, die auf allen Standard-Seiten angezeigt wird."
+
+#@ cpotheme
+#: includes/setup.php:30
+msgid "Blog"
+msgstr "Blog"
+
+#@ cpotheme
+#: includes/setup.php:32
+msgid "Sidebar shown in the blog page template."
+msgstr "Sidebar, die auf allen Seiten mit dem Blog-Template angezeigt wird."
+
+#@ cpotheme
+#: includes/setup.php:38
+msgid "Footer Sidebar 1"
+msgstr "Fußzeilen-Sidebar 1"
+
+#@ cpotheme
+#: includes/setup.php:40
+#: includes/setup.php:48
+#: includes/setup.php:56
+msgid "Shown in the footer area."
+msgstr "Wird im Fußzeilenbereich angezeigt."
+
+#@ cpotheme
+#: includes/setup.php:46
+msgid "Footer Sidebar 2"
+msgstr "Fußzeilen-Sidebar 2"
+
+#@ cpotheme
+#: includes/setup.php:54
+msgid "Footer Sidebar 3"
+msgstr "Fußzeilen-Sidebar 3"
+
+#@ cpotheme
+#: includes/setup.php:67
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#@ cpotheme
+#: includes/setup.php:68
+msgid "Footer Menu"
+msgstr "Fußzeilenmenü"
+
+#@ cpotheme
+#: page.php:11
+msgid "Pages"
+msgstr "Seiten"
+
+#@ cpotheme
+#: search.php:6
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#@ cpotheme
+#: search.php:19
+#, php-format
+msgid "Go to %s"
+msgstr "Gehe zu %s"
+
+#@ cpotheme
+#: search.php:36
+msgid "No results have been found."
+msgstr "Keine Ergebnisse gefunden."
+
+#@ cpotheme
+#: sidebar-home.php:9
+#: sidebar.php:9
+msgid "Archives"
+msgstr "Archive"
+
+#@ cpotheme
+#: sidebar-home.php:16
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#@ cpotheme
+#: template-blog.php:15
+#: template-contact.php:80
+#: template-full.php:15
+#: template-sitemap.php:15
+msgid "Pages:"
+msgstr "Seiten:"
+
+#@ cpotheme
+#: template-contact.php:19
+#: template-contact.php:27
+#: template-contact.php:38
+msgid "This field cannot be left empty."
+msgstr "Dieses Feld darf nicht leer bleiben."
+
+#@ cpotheme
+#: template-contact.php:30
+msgid "The email address has an incorrect format.."
+msgstr "Die E-Mail-Adresse hat ein falsches Format."
+
+#@ cpotheme
+#: template-contact.php:51
+msgid "New contact form response by"
+msgstr "Neue Kontaktformulareinsendung von"
+
+#@ cpotheme
+#: template-contact.php:53
+#: template-contact.php:93
+msgid "Name"
+msgstr "Name"
+
+#@ cpotheme
+#: template-contact.php:54
+#: template-contact.php:101
+msgid "Email"
+msgstr "E-Mail"
+
+#@ cpotheme
+#: template-contact.php:55
+#: template-contact.php:109
+msgid "Message"
+msgstr "Nachricht"
+
+#@ cpotheme
+#: template-contact.php:57
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+#@ cpotheme
+#: template-contact.php:58
+msgid "Time"
+msgstr "Zeit"
+
+#@ cpotheme
+#: template-contact.php:63
+msgid "Your message has been sent"
+msgstr "Ihre Nachricht wurde gesendet"
+
+#@ cpotheme
+#: template-contact.php:84
+msgid "The email address for the contact form is not configured."
+msgstr "Die E-Mail-Adresse für das Kontaktformular wurde noch nicht konfiguriert."
+
+#@ cpotheme
+#: template-contact.php:89
+msgid "Your message has been sent."
+msgstr "Ihre Nachricht wurde gesendet."
+
+#@ cpotheme
+#: template-contact.php:117
+msgid "In order to complete this form, leave this field empty"
+msgstr "Um das Formlar auszufüllen, lassen sie dieses Feld leer."
+
+#@ cpotheme
+#: template-contact.php:123
+msgid "Send"
+msgstr "Senden"
+
