@@ -41,7 +41,7 @@ get_header(); ?>
 			<?php /* The loop */ ?>
 			<?php while ( $list_of_posts->have_posts() ) : $list_of_posts->the_post(); ?>
 				<?php // Display content of posts ?>
-				<div class="pageofpost-thumb"><?php the_post_thumbnail('thumbnail'); ?></div><a class="thumbnail alignleft" href="<?php the_permalink();?>"><h2><?php  the_title(); ?></h2></a><?php the_excerpt();
+		<div class="entry"><a class="thumbnail alignleft"><?php the_post_thumbnail('thumbnail'); ?></a><h2 class="title"><a href="<?php the_permalink();?>"><?php the_title(); ?></a></h2><div class="preview"><?php the_excerpt();?></div></div><?php
 //get_template_part( 'content', get_post_format() ); ?>
 			<?php endwhile; ?>
 
