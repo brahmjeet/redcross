@@ -737,8 +737,8 @@ Includes all queries that shape the site for mobile experiences
 	height: 100px;
 }
 .chairperson {
-  width: 120px;
+  clear: both; 
   float: left;
-  clear: both;
+  width: 120px;
   margin-right: 30px;
 }
