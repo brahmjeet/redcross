@@ -736,3 +736,6 @@ Includes all queries that shape the site for mobile experiences
 .page-template-tpl-pageofposts-php .entry .thumbnail {
 	height: 100px;
 }
+.chairperson {
+  width: 120px;
+}
