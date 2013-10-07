@@ -721,6 +721,9 @@ Includes all queries that shape the site for mobile experiences
     
 }
 /* Css Written by brahm*/
+#main .entry {
+    min-height: 90px;
+}
 .image-content {
     float: left;
     margin-right: 20px;
